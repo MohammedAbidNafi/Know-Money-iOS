@@ -9,7 +9,7 @@ import Foundation
 
 // App Globals
 let APP_NAME = "Know Money"
-let APP_LINK = "https://github.com/MohammedAbidNafi/Know-Money"
+let APP_LINK = "https://github.com/MohammedAbidNafi/Know-Money-iOS"
 let SHARED_FROM_EXPENSO = """
     Shared from \(APP_NAME) App: \(APP_LINK)
     """
