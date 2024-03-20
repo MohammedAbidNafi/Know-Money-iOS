@@ -9,10 +9,10 @@
 /* Begin PBXBuildFile section */
 		736C720A25CFD89900720DEA /* empty-face.json in Resources */ = {isa = PBXBuildFile; fileRef = 736C720925CFD89900720DEA /* empty-face.json */; };
 		736C721B25CFE8E200720DEA /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736C721A25CFE8E200720DEA /* LottieView.swift */; };
-		738B1C1825C65DFE0067407B /* KnowMoneyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B1C1725C65DFE0067407B /* KnowMoneyApp.swift */; };
+		738B1C1825C65DFE0067407B /* Know_Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B1C1725C65DFE0067407B /* Know_Money.swift */; };
 		738B1C1C25C65E060067407B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 738B1C1B25C65E060067407B /* Assets.xcassets */; };
 		738B1C1F25C65E060067407B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 738B1C1E25C65E060067407B /* Preview Assets.xcassets */; };
-		738B1C2425C65E060067407B /* KnowMoney.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 738B1C2225C65E060067407B /* KnowMoney.xcdatamodeld */; };
+		738B1C2425C65E060067407B /* Know_Money.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 738B1C2225C65E060067407B /* Know_Money.xcdatamodeld */; };
 		738B1C2F25C65EF70067407B /* Configs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B1C2E25C65EF70067407B /* Configs.swift */; };
 		738B1C3325C660140067407B /* ExpenseCD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B1C3225C660140067407B /* ExpenseCD.swift */; };
 		738B1C3825C661750067407B /* ExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738B1C3725C661750067407B /* ExpenseView.swift */; };
@@ -56,7 +56,7 @@
 		736C720925CFD89900720DEA /* empty-face.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "empty-face.json"; sourceTree = "<group>"; };
 		736C721A25CFE8E200720DEA /* LottieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
 		738B1C1425C65DFE0067407B /* Know-Money.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Know-Money.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		738B1C1725C65DFE0067407B /* KnowMoneyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowMoneyApp.swift; sourceTree = "<group>"; };
+		738B1C1725C65DFE0067407B /* Know_Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Know_Money.swift; sourceTree = "<group>"; };
 		738B1C1B25C65E060067407B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		738B1C1E25C65E060067407B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		738B1C2325C65E060067407B /* Expenso.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Expenso.xcdatamodel; sourceTree = "<group>"; };
@@ -174,10 +174,10 @@
 				733763AA27120E0500AA983A /* Library */,
 				733763A927120DF300AA983A /* Resources */,
 				733763A827120DB600AA983A /* Screens */,
-				738B1C1725C65DFE0067407B /* KnowMoneyApp.swift */,
+				738B1C1725C65DFE0067407B /* Know_Money.swift */,
 				738B1C1B25C65E060067407B /* Assets.xcassets */,
 				738B1C2525C65E060067407B /* Info.plist */,
-				738B1C2225C65E060067407B /* KnowMoney.xcdatamodeld */,
+				738B1C2225C65E060067407B /* Know_Money.xcdatamodeld */,
 				738B1C1D25C65E060067407B /* Preview Content */,
 				738B1C2E25C65EF70067407B /* Configs.swift */,
 			);
@@ -398,7 +398,7 @@
 				738B1C9025C680D20067407B /* AboutView.swift in Sources */,
 				738B1C4F25C663180067407B /* DateExtension.swift in Sources */,
 				738B1C5225C6632F0067407B /* HelperMethods.swift in Sources */,
-				738B1C2425C65E060067407B /* KnowMoney.xcdatamodeld in Sources */,
+				738B1C2425C65E060067407B /* Know_Money.xcdatamodeld in Sources */,
 				738B1C8B25C67D880067407B /* ExpenseFilterView.swift in Sources */,
 				739DFF7B25DC1E3C005BD5C8 /* AuthenticateView.swift in Sources */,
 				738B1C3325C660140067407B /* ExpenseCD.swift in Sources */,
@@ -411,7 +411,7 @@
 				738B1C4C25C663060067407B /* DismissKeyboard.swift in Sources */,
 				738B1C4625C662D90067407B /* TextView.swift in Sources */,
 				738B1C7B25C6752E0067407B /* AddExpenseViewModel.swift in Sources */,
-				738B1C1825C65DFE0067407B /* KnowMoneyApp.swift in Sources */,
+				738B1C1825C65DFE0067407B /* Know_Money.swift in Sources */,
 				738B1C6C25C673FC0067407B /* ExpenseCSVModel.swift in Sources */,
 				738B1C4925C662F20067407B /* DropdownButton.swift in Sources */,
 				738B1C7025C674120067407B /* ExpenseSettingsViewModel.swift in Sources */,
@@ -656,13 +656,13 @@
 /* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
-		738B1C2225C65E060067407B /* KnowMoney.xcdatamodeld */ = {
+		738B1C2225C65E060067407B /* Know_Money.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				738B1C2325C65E060067407B /* Expenso.xcdatamodel */,
 			);
 			currentVersion = 738B1C2325C65E060067407B /* Expenso.xcdatamodel */;
-			path = KnowMoney.xcdatamodeld;
+			path = Know_Money.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

@@ -1,15 +1,9 @@
-//
-//  ExpensoApp.swift
-//  Expenso
-//
-//  Created by Sameer Nawaz on 31/01/21.
-//
 
 import SwiftUI
 import CoreData
 
 @main
-struct KnowMoneyApp: App {
+struct Know_Money: App {
     
     init() {
         self.setDefaultPreferences()
@@ -35,7 +29,7 @@ struct KnowMoneyApp: App {
     }
     
     var persistentContainer: NSPersistentContainer = {
-        let container = NSPersistentContainer(name: "Know Money")
+        let container = NSPersistentContainer(name: "Know_Money")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 fatalError("Unresolved error \(error), \(error.userInfo)")
