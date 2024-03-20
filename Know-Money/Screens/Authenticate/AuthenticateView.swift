@@ -1,9 +1,3 @@
-//
-//  AuthenticateView.swift
-//  Expenso
-//
-//  Created by Sameer Nawaz on 16/02/21.
-//
 
 import SwiftUI
 import LocalAuthentication

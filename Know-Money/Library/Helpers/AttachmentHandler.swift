@@ -1,9 +1,4 @@
-//
-//  AttachmentHandler.swift
-//  Expenso
-//
-//  Created by Sameer Nawaz on 15/02/21.
-//
+
 
 import Foundation
 import UIKit

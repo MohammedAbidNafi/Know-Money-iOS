@@ -1,9 +1,4 @@
-//
-//  LottieView.swift
-//  Expenso
-//
-//  Created by Sameer Nawaz on 07/02/21.
-//
+
 
 import SwiftUI
 import Lottie

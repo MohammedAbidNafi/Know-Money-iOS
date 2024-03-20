@@ -1,9 +1,3 @@
-//
-//  ChartView.swift
-//  Expenso
-//
-//  Created by Sameer Nawaz on 15/03/21.
-//
 
 import SwiftUI
 import DGCharts

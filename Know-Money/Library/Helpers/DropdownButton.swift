@@ -1,9 +1,4 @@
-//
-//  DropdownButton.swift
-//  Expenso
-//
-//  Created by Sameer Nawaz on 31/01/21.
-//
+
 
 import SwiftUI
 

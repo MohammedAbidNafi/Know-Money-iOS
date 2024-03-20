@@ -1,9 +1,3 @@
-//
-//  AuthenticationViewModel.swift
-//  Expenso
-//
-//  Created by Waseem Akram on 06/03/21.
-//
 
 import Foundation
 import Combine
